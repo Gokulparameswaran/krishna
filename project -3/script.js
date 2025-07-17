@@ -15,3 +15,5 @@ function runclock(){
 };
 runclock();
 setInterval(runclock,1000);
+
+console.log("hi");
